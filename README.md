@@ -19,7 +19,7 @@ Once ran, the function should print a summary of the transaction.
 example:
 
 ```
-> npm poppinBottles.js 15
+> npm poppinBottles.js 40
 
 TOTAL BOTTLES: 75
 REMAINING BOTTLES: 1
